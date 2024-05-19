@@ -1,5 +1,5 @@
  👋 Hi, I’m @GabriellyStochero
-- 👀 I’m interested in Database
+- 👀 I’m interested in Database, schedule and cybersecurity
 - 🌱 I’m currently learning information systems
 - 💞️ I’m looking to collaborate on everything I can
 - 📫 How to reach me gabriellystochero@gmail.com
